@@ -7,7 +7,7 @@ git checkout -b new_branch
 
 Create a new remote for the upstream repo with the command:
 
-git remote add upstream https://github.com/Park87/Project-Air
+git remote add upstream https://github.com/DrSteam1111/Project-Fruit
 
 git add *
 
