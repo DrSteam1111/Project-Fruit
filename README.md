@@ -1,4 +1,4 @@
-# Project Air
+# Project Fruit
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/DrSteam1111/Project-Fruit)
 ![GitHub repo size](https://img.shields.io/github/repo-size/DrSteam1111/Project-Fruit)
