@@ -1,16 +1,35 @@
-# Project-Fruit
-DONT FORGET TO FETCH AND GIT PULL BEFORE COMMITING.
+# Project Air
 
-Create a new branch by issuing the command:
+![GitHub last commit](https://img.shields.io/github/last-commit/DrSteam1111/Project-Fruit)
+![GitHub repo size](https://img.shields.io/github/repo-size/DrSteam1111/Project-Fruit)
+![GitHub contributors](https://img.shields.io/github/contributors/DrSteam1111/Project-Fruit)
 
-git checkout -b new_branch
+Incase you forgot the commands to commit, push etc...
 
-Create a new remote for the upstream repo with the command:
+## Contributing to this project
+To contribute to this project, follow these steps:
 
-git remote add upstream https://github.com/DrSteam1111/Project-Fruit
+1. Fork this repository and clone your fork.
+2. Make your changes.
+3. Add, commit and push them: `git add *` `git commit -m '<commit_message>'` `git push`
+4. Create the pull request from your fork to the original repository on Github.
 
-git add *
+Alternatively see the GitHub documentation on [creating a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
-git commit -m "Förklaring på vad du pushar"
+<!--
 
-git push -u origin din_bransh (Exempel Wireframes, movies etc...)
+## Contributors
+
+Thanks to the following people who have contributed to this project:
+
+* [@seetee](https://github.com/seetee)
+
+## Contact
+
+If you want to contact me you can reach me on Twitter @alltinomit.
+
+## License
+
+![Code License](https://img.shields.io/github/license/axelekenberg/projectfruit)
+
+-->
